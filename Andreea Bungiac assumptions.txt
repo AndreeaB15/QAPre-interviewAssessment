@@ -1,0 +1,9 @@
+Andreea Bungiac assumptions for the pre-interview test:
+
+1. For all the given requirements the testing is done on large view ports(desktop)
+2. For all the given requirements the user is not logged in
+3. For all given requirements the browsers used are Chrome and Edge. 
+
+1st Assignment: 
+
+1. Tested website is on live so Get in Touch section would not be submitted after being correctly completed. 
